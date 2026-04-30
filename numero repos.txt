@@ -1,0 +1,470 @@
+📦 Checando repo 1: codecrafters-io/build-your-own-x
+✅ Repo válido: codecrafters-io/build-your-own-x (342 PRs)
+📦 Checando repo 2: sindresorhus/awesome
+✅ Repo válido: sindresorhus/awesome (2359 PRs)
+📦 Checando repo 3: freeCodeCamp/freeCodeCamp
+✅ Repo válido: freeCodeCamp/freeCodeCamp (44850 PRs)
+📦 Checando repo 4: public-apis/public-apis
+✅ Repo válido: public-apis/public-apis (3227 PRs)
+📦 Checando repo 5: EbookFoundation/free-programming-books
+✅ Repo válido: EbookFoundation/free-programming-books (11619 PRs)
+📦 Checando repo 6: openclaw/openclaw
+✅ Repo válido: openclaw/openclaw (36535 PRs)
+📦 Checando repo 7: nilbuild/developer-roadmap
+✅ Repo válido: nilbuild/developer-roadmap (5982 PRs)
+📦 Checando repo 8: donnemartin/system-design-primer
+✅ Repo válido: donnemartin/system-design-primer (372 PRs)
+📦 Checando repo 9: jwasham/coding-interview-university
+✅ Repo válido: jwasham/coding-interview-university (1012 PRs)
+📦 Checando repo 10: vinta/awesome-python
+✅ Repo válido: vinta/awesome-python (2382 PRs)
+
+🔎 Buscando repositórios... (10/200)
+📦 Checando repo 11: awesome-selfhosted/awesome-selfhosted
+✅ Repo válido: awesome-selfhosted/awesome-selfhosted (3041 PRs)
+📦 Checando repo 12: 996icu/996.ICU
+✅ Repo válido: 996icu/996.ICU (1991 PRs)
+📦 Checando repo 13: practical-tutorials/project-based-learning
+✅ Repo válido: practical-tutorials/project-based-learning (383 PRs)
+📦 Checando repo 14: facebook/react
+✅ Repo válido: facebook/react (18984 PRs)
+📦 Checando repo 15: torvalds/linux
+⏭️ Ignorado: apenas 0 PRs MERGED/CLOSED
+📦 Checando repo 16: TheAlgorithms/Python
+✅ Repo válido: TheAlgorithms/Python (11383 PRs)
+📦 Checando repo 17: trimstray/the-book-of-secret-knowledge
+✅ Repo válido: trimstray/the-book-of-secret-knowledge (240 PRs)
+📦 Checando repo 18: vuejs/vue
+✅ Repo válido: vuejs/vue (2368 PRs)
+📦 Checando repo 19: ossu/computer-science
+✅ Repo válido: ossu/computer-science (511 PRs)
+📦 Checando repo 20: trekhleb/javascript-algorithms
+✅ Repo válido: trekhleb/javascript-algorithms (574 PRs)
+
+🔎 Buscando repositórios... (19/200)
+📦 Checando repo 21: tensorflow/tensorflow
+✅ Repo válido: tensorflow/tensorflow (68617 PRs)
+📦 Checando repo 22: ultraworkers/claw-code
+⏭️ Ignorado: apenas 19 PRs MERGED/CLOSED
+📦 Checando repo 23: ohmyzsh/ohmyzsh
+✅ Repo válido: ohmyzsh/ohmyzsh (7645 PRs)
+📦 Checando repo 24: n8n-io/n8n
+✅ Repo válido: n8n-io/n8n (19367 PRs)
+📦 Checando repo 25: getify/You-Dont-Know-JS
+✅ Repo válido: getify/You-Dont-Know-JS (897 PRs)
+📦 Checando repo 26: microsoft/vscode
+✅ Repo válido: microsoft/vscode (54177 PRs)
+📦 Checando repo 27: CyC2018/CS-Notes
+✅ Repo válido: CyC2018/CS-Notes (562 PRs)
+📦 Checando repo 28: Significant-Gravitas/AutoGPT
+✅ Repo válido: Significant-Gravitas/AutoGPT (7718 PRs)
+📦 Checando repo 29: jackfrued/Python-100-Days
+✅ Repo válido: jackfrued/Python-100-Days (216 PRs)
+📦 Checando repo 30: flutter/flutter
+✅ Repo válido: flutter/flutter (70656 PRs)
+
+🔎 Buscando repositórios... (28/200)
+📦 Checando repo 31: twbs/bootstrap
+✅ Repo válido: twbs/bootstrap (16007 PRs)
+📦 Checando repo 32: github/gitignore
+✅ Repo válido: github/gitignore (4673 PRs)
+📦 Checando repo 33: massgravel/Microsoft-Activation-Scripts
+⏭️ Ignorado: apenas 61 PRs MERGED/CLOSED
+📦 Checando repo 34: obra/superpowers
+✅ Repo válido: obra/superpowers (534 PRs)
+📦 Checando repo 35: avelino/awesome-go
+✅ Repo válido: avelino/awesome-go (5117 PRs)
+📦 Checando repo 36: ollama/ollama
+✅ Repo válido: ollama/ollama (4588 PRs)
+📦 Checando repo 37: affaan-m/everything-claude-code
+✅ Repo válido: affaan-m/everything-claude-code (933 PRs)
+📦 Checando repo 38: AUTOMATIC1111/stable-diffusion-webui
+✅ Repo válido: AUTOMATIC1111/stable-diffusion-webui (3267 PRs)
+📦 Checando repo 39: f/prompts.chat
+✅ Repo válido: f/prompts.chat (849 PRs)
+📦 Checando repo 40: jlevy/the-art-of-command-line
+✅ Repo válido: jlevy/the-art-of-command-line (475 PRs)
+
+🔎 Buscando repositórios... (37/200)
+📦 Checando repo 41: huggingface/transformers
+✅ Repo válido: huggingface/transformers (24862 PRs)
+📦 Checando repo 42: yt-dlp/yt-dlp
+✅ Repo válido: yt-dlp/yt-dlp (4178 PRs)
+📦 Checando repo 43: DigitalPlatDev/FreeDomain
+⏭️ Ignorado: apenas 28 PRs MERGED/CLOSED
+📦 Checando repo 44: Snailclimb/JavaGuide
+✅ Repo válido: Snailclimb/JavaGuide (1570 PRs)
+📦 Checando repo 45: 521xueweihan/HelloGitHub
+⏭️ Ignorado: apenas 59 PRs MERGED/CLOSED
+📦 Checando repo 46: anomalyco/opencode
+✅ Repo válido: anomalyco/opencode (8494 PRs)
+📦 Checando repo 47: airbnb/javascript
+✅ Repo válido: airbnb/javascript (1637 PRs)
+📦 Checando repo 48: langflow-ai/langflow
+✅ Repo válido: langflow-ai/langflow (8270 PRs)
+📦 Checando repo 49: ytdl-org/youtube-dl
+✅ Repo válido: ytdl-org/youtube-dl (4513 PRs)
+📦 Checando repo 50: langgenius/dify
+✅ Repo válido: langgenius/dify (12968 PRs)
+
+🔎 Buscando repositórios... (45/200)
+📦 Checando repo 51: vercel/next.js
+✅ Repo válido: vercel/next.js (34857 PRs)
+📦 Checando repo 52: Genymobile/scrcpy
+✅ Repo válido: Genymobile/scrcpy (575 PRs)
+📦 Checando repo 53: yangshun/tech-interview-handbook
+✅ Repo válido: yangshun/tech-interview-handbook (587 PRs)
+📦 Checando repo 54: x1xhlol/system-prompts-and-models-of-ai-tools
+✅ Repo válido: x1xhlol/system-prompts-and-models-of-ai-tools (133 PRs)
+📦 Checando repo 55: langchain-ai/langchain
+✅ Repo válido: langchain-ai/langchain (21930 PRs)
+📦 Checando repo 56: open-webui/open-webui
+✅ Repo válido: open-webui/open-webui (7323 PRs)
+📦 Checando repo 57: golang/go
+✅ Repo válido: golang/go (4615 PRs)
+📦 Checando repo 58: labuladong/fucking-algorithm
+✅ Repo válido: labuladong/fucking-algorithm (509 PRs)
+📦 Checando repo 59: microsoft/PowerToys
+✅ Repo válido: microsoft/PowerToys (7590 PRs)
+📦 Checando repo 60: Chalarangelo/30-seconds-of-code
+✅ Repo válido: Chalarangelo/30-seconds-of-code (1661 PRs)
+
+🔎 Buscando repositórios... (55/200)
+📦 Checando repo 61: anthropics/skills
+✅ Repo válido: anthropics/skills (194 PRs)
+📦 Checando repo 62: krahets/hello-algo
+✅ Repo válido: krahets/hello-algo (1237 PRs)
+📦 Checando repo 63: facebook/react-native
+✅ Repo válido: facebook/react-native (26420 PRs)
+📦 Checando repo 64: NousResearch/hermes-agent
+✅ Repo válido: NousResearch/hermes-agent (8797 PRs)
+📦 Checando repo 65: excalidraw/excalidraw
+✅ Repo válido: excalidraw/excalidraw (5080 PRs)
+📦 Checando repo 66: kubernetes/kubernetes
+✅ Repo válido: kubernetes/kubernetes (88189 PRs)
+📦 Checando repo 67: electron/electron
+✅ Repo válido: electron/electron (28729 PRs)
+📦 Checando repo 68: ripienaar/free-for-dev
+✅ Repo válido: ripienaar/free-for-dev (4138 PRs)
+📦 Checando repo 69: anthropics/claude-code
+✅ Repo válido: anthropics/claude-code (439 PRs)
+📦 Checando repo 70: microsoft/markitdown
+✅ Repo válido: microsoft/markitdown (285 PRs)
+
+🔎 Buscando repositórios... (65/200)
+📦 Checando repo 71: nodejs/node
+✅ Repo válido: nodejs/node (39391 PRs)
+📦 Checando repo 72: justjavac/free-programming-books-zh_CN
+✅ Repo válido: justjavac/free-programming-books-zh_CN (439 PRs)
+📦 Checando repo 73: iptv-org/iptv
+✅ Repo válido: iptv-org/iptv (7828 PRs)
+📦 Checando repo 74: clash-verge-rev/clash-verge-rev
+✅ Repo válido: clash-verge-rev/clash-verge-rev (1073 PRs)
+📦 Checando repo 75: shadcn-ui/ui
+✅ Repo válido: shadcn-ui/ui (3053 PRs)
+📦 Checando repo 76: rustdesk/rustdesk
+✅ Repo válido: rustdesk/rustdesk (5035 PRs)
+📦 Checando repo 77: firecrawl/firecrawl
+✅ Repo válido: firecrawl/firecrawl (2273 PRs)
+📦 Checando repo 78: d3/d3
+✅ Repo válido: d3/d3 (1201 PRs)
+📦 Checando repo 79: rust-lang/rust
+✅ Repo válido: rust-lang/rust (92071 PRs)
+📦 Checando repo 80: mrdoob/three.js
+✅ Repo válido: mrdoob/three.js (19507 PRs)
+
+🔎 Buscando repositórios... (75/200)
+📦 Checando repo 81: Hack-with-Github/Awesome-Hacking
+✅ Repo válido: Hack-with-Github/Awesome-Hacking (140 PRs)
+📦 Checando repo 82: Comfy-Org/ComfyUI
+✅ Repo válido: Comfy-Org/ComfyUI (3418 PRs)
+📦 Checando repo 83: godotengine/godot
+✅ Repo válido: godotengine/godot (50872 PRs)
+📦 Checando repo 84: microsoft/generative-ai-for-beginners
+✅ Repo válido: microsoft/generative-ai-for-beginners (793 PRs)
+📦 Checando repo 85: axios/axios
+✅ Repo válido: axios/axios (2428 PRs)
+📦 Checando repo 86: microsoft/TypeScript
+✅ Repo válido: microsoft/TypeScript (19117 PRs)
+📦 Checando repo 87: Shubhamsaboo/awesome-llm-apps
+✅ Repo válido: Shubhamsaboo/awesome-llm-apps (500 PRs)
+📦 Checando repo 88: GrowingGit/GitHub-Chinese-Top-Charts
+⏭️ Ignorado: apenas 16 PRs MERGED/CLOSED
+📦 Checando repo 89: ggml-org/llama.cpp
+✅ Repo válido: ggml-org/llama.cpp (10326 PRs)
+📦 Checando repo 90: denoland/deno
+✅ Repo válido: denoland/deno (17762 PRs)
+
+🔎 Buscando repositórios... (84/200)
+📦 Checando repo 91: fatedier/frp
+✅ Repo válido: fatedier/frp (1143 PRs)
+📦 Checando repo 92: tauri-apps/tauri
+✅ Repo válido: tauri-apps/tauri (6331 PRs)
+📦 Checando repo 93: papers-we-love/papers-we-love
+✅ Repo válido: papers-we-love/papers-we-love (529 PRs)
+📦 Checando repo 94: goldbergyoni/nodebestpractices
+✅ Repo válido: goldbergyoni/nodebestpractices (931 PRs)
+📦 Checando repo 95: 2dust/v2rayN
+✅ Repo válido: 2dust/v2rayN (751 PRs)
+📦 Checando repo 96: facebook/create-react-app
+✅ Repo válido: facebook/create-react-app (3870 PRs)
+📦 Checando repo 97: deepseek-ai/DeepSeek-V3
+✅ Repo válido: deepseek-ai/DeepSeek-V3 (136 PRs)
+📦 Checando repo 98: microsoft/terminal
+✅ Repo válido: microsoft/terminal (5097 PRs)
+📦 Checando repo 99: jaywcjlove/awesome-mac
+✅ Repo válido: jaywcjlove/awesome-mac (1286 PRs)
+📦 Checando repo 100: google-gemini/gemini-cli
+✅ Repo válido: google-gemini/gemini-cli (10669 PRs)
+
+🔎 Buscando repositórios... (94/200)
+📦 Checando repo 101: supabase/supabase
+✅ Repo válido: supabase/supabase (19918 PRs)
+📦 Checando repo 102: angular/angular
+✅ Repo válido: angular/angular (35732 PRs)
+📦 Checando repo 103: Anduin2017/HowToCook
+✅ Repo válido: Anduin2017/HowToCook (858 PRs)
+📦 Checando repo 104: pytorch/pytorch
+✅ Repo válido: pytorch/pytorch (120752 PRs)
+📦 Checando repo 105: neovim/neovim
+✅ Repo válido: neovim/neovim (23792 PRs)
+📦 Checando repo 106: immich-app/immich
+✅ Repo válido: immich-app/immich (10832 PRs)
+📦 Checando repo 107: mtdvio/every-programmer-should-know
+✅ Repo válido: mtdvio/every-programmer-should-know (167 PRs)
+📦 Checando repo 108: openai/whisper
+✅ Repo válido: openai/whisper (244 PRs)
+📦 Checando repo 109: forrestchang/andrej-karpathy-skills
+⏭️ Ignorado: apenas 26 PRs MERGED/CLOSED
+📦 Checando repo 110: mui/material-ui
+✅ Repo válido: mui/material-ui (26450 PRs)
+
+🔎 Buscando repositórios... (103/200)
+📦 Checando repo 111: ant-design/ant-design
+✅ Repo válido: ant-design/ant-design (22010 PRs)
+📦 Checando repo 112: fastapi/fastapi
+✅ Repo válido: fastapi/fastapi (5514 PRs)
+📦 Checando repo 113: nvbn/thefuck
+✅ Repo válido: nvbn/thefuck (618 PRs)
+📦 Checando repo 114: microsoft/Web-Dev-For-Beginners
+✅ Repo válido: microsoft/Web-Dev-For-Beginners (1158 PRs)
+📦 Checando repo 115: tailwindlabs/tailwindcss
+✅ Repo válido: tailwindlabs/tailwindcss (4208 PRs)
+📦 Checando repo 116: ryanmcdermott/clean-code-javascript
+✅ Repo válido: ryanmcdermott/clean-code-javascript (260 PRs)
+📦 Checando repo 117: puppeteer/puppeteer
+✅ Repo válido: puppeteer/puppeteer (7345 PRs)
+📦 Checando repo 118: iluwatar/java-design-patterns
+✅ Repo válido: iluwatar/java-design-patterns (2332 PRs)
+📦 Checando repo 119: florinpop17/app-ideas
+✅ Repo válido: florinpop17/app-ideas (403 PRs)
+📦 Checando repo 120: nvm-sh/nvm
+✅ Repo válido: nvm-sh/nvm (1159 PRs)
+
+🔎 Buscando repositórios... (113/200)
+📦 Checando repo 121: hacksider/Deep-Live-Cam
+✅ Repo válido: hacksider/Deep-Live-Cam (313 PRs)
+📦 Checando repo 122: deepseek-ai/DeepSeek-R1
+⏭️ Ignorado: apenas 35 PRs MERGED/CLOSED
+📦 Checando repo 123: rasbt/LLMs-from-scratch
+✅ Repo válido: rasbt/LLMs-from-scratch (566 PRs)
+📦 Checando repo 124: github/spec-kit
+✅ Repo válido: github/spec-kit (807 PRs)
+📦 Checando repo 125: browser-use/browser-use
+✅ Repo válido: browser-use/browser-use (2714 PRs)
+📦 Checando repo 126: PanJiaChen/vue-element-admin
+✅ Repo válido: PanJiaChen/vue-element-admin (489 PRs)
+📦 Checando repo 127: ruanyf/weekly
+✅ Repo válido: ruanyf/weekly (150 PRs)
+📦 Checando repo 128: storybookjs/storybook
+✅ Repo válido: storybookjs/storybook (15667 PRs)
+📦 Checando repo 129: oven-sh/bun
+✅ Repo válido: oven-sh/bun (10736 PRs)
+📦 Checando repo 130: bitcoin/bitcoin
+✅ Repo válido: bitcoin/bitcoin (24034 PRs)
+
+🔎 Buscando repositórios... (122/200)
+📦 Checando repo 131: msitarzewski/agency-agents
+✅ Repo válido: msitarzewski/agency-agents (252 PRs)
+📦 Checando repo 132: gin-gonic/gin
+✅ Repo válido: gin-gonic/gin (2091 PRs)
+📦 Checando repo 133: ChatGPTNextWeb/NextChat
+✅ Repo válido: ChatGPTNextWeb/NextChat (2550 PRs)
+📦 Checando repo 134: gohugoio/hugo
+✅ Repo válido: gohugoio/hugo (6449 PRs)
+📦 Checando repo 135: mermaid-js/mermaid
+✅ Repo válido: mermaid-js/mermaid (3285 PRs)
+📦 Checando repo 136: microsoft/playwright
+✅ Repo válido: microsoft/playwright (19542 PRs)
+📦 Checando repo 137: django/django
+✅ Repo válido: django/django (20697 PRs)
+📦 Checando repo 138: opencv/opencv
+✅ Repo válido: opencv/opencv (16996 PRs)
+📦 Checando repo 139: home-assistant/core
+✅ Repo válido: home-assistant/core (98164 PRs)
+📦 Checando repo 140: garrytan/gstack
+✅ Repo válido: garrytan/gstack (633 PRs)
+
+🔎 Buscando repositórios... (132/200)
+📦 Checando repo 141: sveltejs/svelte
+✅ Repo válido: sveltejs/svelte (8052 PRs)
+📦 Checando repo 142: 3b1b/manim
+✅ Repo válido: 3b1b/manim (918 PRs)
+📦 Checando repo 143: louislam/uptime-kuma
+✅ Repo válido: louislam/uptime-kuma (2426 PRs)
+📦 Checando repo 144: punkpeye/awesome-mcp-servers
+✅ Repo válido: punkpeye/awesome-mcp-servers (4246 PRs)
+📦 Checando repo 145: microsoft/ML-For-Beginners
+✅ Repo válido: microsoft/ML-For-Beginners (657 PRs)
+📦 Checando repo 146: MunGell/awesome-for-beginners
+✅ Repo válido: MunGell/awesome-for-beginners (1666 PRs)
+📦 Checando repo 147: modelcontextprotocol/servers
+✅ Repo válido: modelcontextprotocol/servers (2828 PRs)
+📦 Checando repo 148: astral-sh/uv
+✅ Repo válido: astral-sh/uv (9876 PRs)
+📦 Checando repo 149: laravel/laravel
+✅ Repo válido: laravel/laravel (5134 PRs)
+📦 Checando repo 150: macrozheng/mall
+✅ Repo válido: macrozheng/mall (153 PRs)
+
+🔎 Buscando repositórios... (142/200)
+📦 Checando repo 151: realworld-apps/realworld
+✅ Repo válido: realworld-apps/realworld (917 PRs)
+📦 Checando repo 152: syncthing/syncthing
+✅ Repo válido: syncthing/syncthing (4683 PRs)
+📦 Checando repo 153: sherlock-project/sherlock
+✅ Repo válido: sherlock-project/sherlock (1328 PRs)
+📦 Checando repo 154: animate-css/animate.css
+✅ Repo válido: animate-css/animate.css (901 PRs)
+📦 Checando repo 155: DopplerHQ/awesome-interview-questions
+✅ Repo válido: DopplerHQ/awesome-interview-questions (211 PRs)
+📦 Checando repo 156: ByteByteGoHq/system-design-101
+⏭️ Ignorado: apenas 33 PRs MERGED/CLOSED
+📦 Checando repo 157: bregman-arie/devops-exercises
+✅ Repo válido: bregman-arie/devops-exercises (425 PRs)
+📦 Checando repo 158: tonsky/FiraCode
+✅ Repo válido: tonsky/FiraCode (203 PRs)
+📦 Checando repo 159: Developer-Y/cs-video-courses
+✅ Repo válido: Developer-Y/cs-video-courses (320 PRs)
+📦 Checando repo 160: spring-projects/spring-boot
+✅ Repo válido: spring-projects/spring-boot (7491 PRs)
+
+🔎 Buscando repositórios... (151/200)
+📦 Checando repo 161: fighting41love/funNLP
+⏭️ Ignorado: apenas 23 PRs MERGED/CLOSED
+📦 Checando repo 162: vitejs/vite
+✅ Repo válido: vitejs/vite (8095 PRs)
+📦 Checando repo 163: zed-industries/zed
+✅ Repo válido: zed-industries/zed (27555 PRs)
+📦 Checando repo 164: localsend/localsend
+✅ Repo válido: localsend/localsend (814 PRs)
+📦 Checando repo 165: junegunn/fzf
+✅ Repo válido: junegunn/fzf (1103 PRs)
+📦 Checando repo 166: infiniflow/ragflow
+✅ Repo válido: infiniflow/ragflow (6696 PRs)
+📦 Checando repo 167: anuraghazra/github-readme-stats
+✅ Repo válido: anuraghazra/github-readme-stats (2864 PRs)
+📦 Checando repo 168: hoppscotch/hoppscotch
+✅ Repo válido: hoppscotch/hoppscotch (3100 PRs)
+📦 Checando repo 169: doocs/advanced-java
+✅ Repo válido: doocs/advanced-java (142 PRs)
+📦 Checando repo 170: openai/codex
+✅ Repo válido: openai/codex (9257 PRs)
+
+🔎 Buscando repositórios... (160/200)
+📦 Checando repo 171: mlabonne/llm-course
+⏭️ Ignorado: apenas 12 PRs MERGED/CLOSED
+📦 Checando repo 172: netdata/netdata
+✅ Repo válido: netdata/netdata (13355 PRs)
+📦 Checando repo 173: vllm-project/vllm
+✅ Repo válido: vllm-project/vllm (22688 PRs)
+📦 Checando repo 174: Stirling-Tools/Stirling-PDF
+✅ Repo válido: Stirling-Tools/Stirling-PDF (4180 PRs)
+📦 Checando repo 175: karpathy/autoresearch
+✅ Repo válido: karpathy/autoresearch (208 PRs)
+📦 Checando repo 176: tensorflow/models
+✅ Repo válido: tensorflow/models (3689 PRs)
+📦 Checando repo 177: d2l-ai/d2l-zh
+✅ Repo válido: d2l-ai/d2l-zh (1275 PRs)
+📦 Checando repo 178: nomic-ai/gpt4all
+✅ Repo válido: nomic-ai/gpt4all (1160 PRs)
+📦 Checando repo 179: swisskyrepo/PayloadsAllTheThings
+✅ Repo válido: swisskyrepo/PayloadsAllTheThings (733 PRs)
+📦 Checando repo 180: coder/code-server
+✅ Repo válido: coder/code-server (2152 PRs)
+
+🔎 Buscando repositórios... (169/200)
+📦 Checando repo 181: jesseduffield/lazygit
+✅ Repo válido: jesseduffield/lazygit (2256 PRs)
+📦 Checando repo 182: PaddlePaddle/PaddleOCR
+✅ Repo válido: PaddlePaddle/PaddleOCR (3895 PRs)
+📦 Checando repo 183: MisterBooo/LeetCodeAnimation
+⏭️ Ignorado: apenas 75 PRs MERGED/CLOSED
+📦 Checando repo 184: elastic/elasticsearch
+✅ Repo válido: elastic/elasticsearch (101941 PRs)
+📦 Checando repo 185: FortAwesome/Font-Awesome
+✅ Repo válido: FortAwesome/Font-Awesome (695 PRs)
+📦 Checando repo 186: ventoy/Ventoy
+✅ Repo válido: ventoy/Ventoy (467 PRs)
+📦 Checando repo 187: sdmg15/Best-websites-a-programmer-should-visit
+✅ Repo válido: sdmg15/Best-websites-a-programmer-should-visit (1013 PRs)
+📦 Checando repo 188: lobehub/lobehub
+✅ Repo válido: lobehub/lobehub (6790 PRs)
+📦 Checando repo 189: typicode/json-server
+✅ Repo válido: typicode/json-server (404 PRs)
+📦 Checando repo 190: nestjs/nest
+✅ Repo válido: nestjs/nest (10631 PRs)
+
+🔎 Buscando repositórios... (178/200)
+📦 Checando repo 191: awesomedata/awesome-public-datasets
+✅ Repo válido: awesomedata/awesome-public-datasets (296 PRs)
+📦 Checando repo 192: unionlabs/union
+✅ Repo válido: unionlabs/union (3440 PRs)
+📦 Checando repo 193: redis/redis
+✅ Repo válido: redis/redis (7144 PRs)
+📦 Checando repo 194: dair-ai/Prompt-Engineering-Guide
+✅ Repo válido: dair-ai/Prompt-Engineering-Guide (405 PRs)
+📦 Checando repo 195: tesseract-ocr/tesseract
+✅ Repo válido: tesseract-ocr/tesseract (1679 PRs)
+📦 Checando repo 196: vuejs/awesome-vue
+✅ Repo válido: vuejs/awesome-vue (4014 PRs)
+📦 Checando repo 197: grafana/grafana
+✅ Repo válido: grafana/grafana (76134 PRs)
+📦 Checando repo 198: openai/openai-cookbook
+✅ Repo válido: openai/openai-cookbook (1541 PRs)
+📦 Checando repo 199: twitter/the-algorithm
+✅ Repo válido: twitter/the-algorithm (380 PRs)
+📦 Checando repo 200: enaqx/awesome-react
+✅ Repo válido: enaqx/awesome-react (1416 PRs)
+
+🔎 Buscando repositórios... (188/200)
+📦 Checando repo 201: CompVis/stable-diffusion
+⏭️ Ignorado: apenas 85 PRs MERGED/CLOSED
+📦 Checando repo 202: ocornut/imgui
+✅ Repo válido: ocornut/imgui (1533 PRs)
+📦 Checando repo 203: apache/superset
+✅ Repo válido: apache/superset (22134 PRs)
+📦 Checando repo 204: PKUFlyingPig/cs-self-learning
+✅ Repo válido: PKUFlyingPig/cs-self-learning (376 PRs)
+📦 Checando repo 205: thedaviddias/Front-End-Checklist
+✅ Repo válido: thedaviddias/Front-End-Checklist (314 PRs)
+📦 Checando repo 206: python/cpython
+✅ Repo válido: python/cpython (68511 PRs)
+📦 Checando repo 207: abi/screenshot-to-code
+✅ Repo válido: abi/screenshot-to-code (166 PRs)
+📦 Checando repo 208: daytonaio/daytona
+✅ Repo válido: daytonaio/daytona (3297 PRs)
+📦 Checando repo 209: OpenHands/OpenHands
+✅ Repo válido: OpenHands/OpenHands (9693 PRs)
+📦 Checando repo 210: josephmisiti/awesome-machine-learning
+✅ Repo válido: josephmisiti/awesome-machine-learning (1065 PRs)
+
+🔎 Buscando repositórios... (197/200)
+📦 Checando repo 211: nextlevelbuilder/ui-ux-pro-max-skill
+⏭️ Ignorado: apenas 98 PRs MERGED/CLOSED
+📦 Checando repo 212: strapi/strapi
+✅ Repo válido: strapi/strapi (12595 PRs)
+📦 Checando repo 213: obsproject/obs-studio
+✅ Repo válido: obsproject/obs-studio (7452 PRs)
+📦 Checando repo 214: caddyserver/caddy
+✅ Repo válido: caddyserver/caddy (2842 PRs)
